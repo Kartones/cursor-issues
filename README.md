@@ -1,3 +1,5 @@
+⚠️ This is a Cursor vibe-coding experiment ⚠️
+
 # Calculator
 
 A simple Node.js calculator CLI application that performs arithmetic operations.
